@@ -1,0 +1,11 @@
+[package]
+name = "codecrafters-grep"
+version = "0.1.0"
+authors = ["Codecrafters <hello@codecrafters.io>"]
+edition = "2021"
+rust-version = "1.80"
+
+[dependencies]
+env_logger = "0.11.5"
+log = "0.4.22"
+
